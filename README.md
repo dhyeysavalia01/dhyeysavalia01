@@ -5,7 +5,7 @@
 **Machine Learning Enthusiast**
 
 [LinkedIn](https://linkedin.com/in/dhyey-savaliya-632bb4246) ·
-[Email](mailto:dhyeysavalia01@gmail.com) ·
+[Email](mailto:dhyeysavalia01@gmail.com)
 </div>
 
 ---
