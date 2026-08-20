@@ -21,7 +21,7 @@ class DhyeySavaliya:
         self.name = "Dhyey Savaliya"
         self.education = "B.Tech CSE @ MIT-WPU, Pune"
         self.cgpa = 7.78
-        self.internship_role = "Intern at SAC-ISRO"
+        self.internship_role = "Former Intern at SAC-ISRO"
 
     # ================================
     # 🧠 TECH STACK
